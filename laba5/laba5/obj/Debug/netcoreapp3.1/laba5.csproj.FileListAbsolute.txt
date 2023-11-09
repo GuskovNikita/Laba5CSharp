@@ -1,0 +1,14 @@
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.AssemblyInfoInputs.cache
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.AssemblyInfo.cs
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.csproj.CoreCompileInputs.cache
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.exe
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.deps.json
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.runtimeconfig.json
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.runtimeconfig.dev.json
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.dll
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.pdb
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.csproj.AssemblyReference.cache
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.dll
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.pdb
+D:\DZ\DZ A&P\A_P labC#\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.genruntimeconfig.cache
